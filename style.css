@@ -6,11 +6,11 @@
 }
 
 .image{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     padding: 20px;
     border: 0;
-    border-radius: 50px;
+    border-radius: 150px;
 }
 .navigation{
     height: 100vh;
