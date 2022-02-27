@@ -22,3 +22,51 @@ nav h1{
     font-size: xx-large;
     font-weight: 200;
 }
+.education{
+    width: 500px;
+    height: 550px;
+    margin: 50px;
+    padding: 50px;
+    text-align: justify;
+    background-image: url(https://saskregionalparks.ca/wp-content/uploads/2017/04/yourstory-education.jpg);
+    background-size: cover;
+    background-position: center;
+}
+div h1{
+    color: white;
+}
+span{
+    color: #f9004d;
+}
+div p{
+    color: rgb(22, 20, 20);
+    font-weight: 500;
+    font-size: 19px;
+    letter-spacing: 1px;
+    
+}
+.job{
+    text-align: justify;
+    width: 500px;
+    height: 550px;
+    background-image: url(https://media.istockphoto.com/photos/top-view-of-a-white-desktop-concept-job-search-picture-id1279104620?k=20&m=1279104620&s=612x612&w=0&h=Lit4OzCRPW6Z5Pq1L4b9ZjUJvx6McLJySTLnUjJsECE=);
+    background-size: cover;
+    padding: 50px;
+    margin: 50px;
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.programming{
+    text-align: justify;
+    width: 500px;
+    height: 550px;
+    background-image: url(https://miro.medium.com/max/1024/0*JHagKWo00UfFNNCV);
+    background-size: cover;
+    background-position: bottom;
+    padding: 50px;
+    margin: 50px;
+}
