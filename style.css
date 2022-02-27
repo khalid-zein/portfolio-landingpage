@@ -101,3 +101,12 @@ span{
     right: 6px;
 
 }
+.share{
+    position: absolute;
+    top: 90%;
+    left: 8%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
