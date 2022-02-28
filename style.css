@@ -125,3 +125,27 @@ span{
     transform: scale(1.6);
 
 }
+.projects{
+    float: right;
+    position: absolute;
+    transform: translateX(48%);
+    top: 35%;
+    right: 20%;
+    width: 350px;
+    border: 1px solid #f9004d;
+    padding: 20px;
+}
+.projects h2 a{
+    text-decoration: none;
+    color: #f9004d;
+    
+}
+.projects h2{
+    text-align: center;
+}
+.projects p{
+    color: white;
+    letter-spacing: 2px;
+    text-align: justify;
+    font-size: 20px;
+}
