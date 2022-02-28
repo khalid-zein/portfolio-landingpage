@@ -134,6 +134,7 @@ span{
     width: 350px;
     border: 1px solid #f9004d;
     padding: 20px;
+    box-shadow: 0px 0px 5px #000, 0px 0px 25px #868686;
 }
 .projects h2 a{
     text-decoration: none;
