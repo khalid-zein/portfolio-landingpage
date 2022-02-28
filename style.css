@@ -110,3 +110,18 @@ span{
     justify-content: flex-start;
     align-items: center;
 }
+.share p{
+    font-size: 17px;
+    color: white;
+    margin-right: 60px;
+}
+.share .social a{
+    display: inline-block;
+    color: white;
+    margin-right: 15px;
+    transition: transform .3s;
+}
+.share .social a:hover{
+    transform: scale(1.6);
+
+}
