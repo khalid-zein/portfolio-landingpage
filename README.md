@@ -8,5 +8,5 @@ The Project is of my first Portfolio landingpage of week 1 independent Projects
 
 Khalid Zein
 
-##License
+## License
 [MIT](https://khalid-zein.github.io/portfolio-landingpage/)
